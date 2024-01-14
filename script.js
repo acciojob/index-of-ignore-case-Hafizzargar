@@ -11,7 +11,7 @@ function indexOfIgnoreCase(s1, s2) {
   // Find the index of the substring in the lowercase string
   const index = lowerStr.indexOf(lowerSubStr);
 
-  // Return the correct index or -1 if not found
+  // Return the correct index or -1 if not found 
   return index; 
 }
 

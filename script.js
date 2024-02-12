@@ -1,4 +1,4 @@
-function indexOfIgnoreCase(s1, s2) {
+function indexOfIgnoreCase(str, subStr) {
   // write your code here
 	if (str === null || subStr === null) {
     return -1;
